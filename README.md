@@ -8,8 +8,10 @@ I performed some preprocessing operations and applied augmentation techniques us
 
 Preprocessing
     Auto-Orient: Applied
+    
     Resize: Stretch to 700x700
 
 Augmentations
     Crop: 0% Minimum Zoom, 25% Maximum Zoom
+    
     Shear: ±15° Horizontal, ±15° Vertical
