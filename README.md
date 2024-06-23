@@ -7,11 +7,13 @@ YOLO-tiny implementation which uses Mobilenet-v2 as backbone. It is designed for
 I performed some preprocessing operations and applied augmentation techniques using roboflow before using the dataset.
 
 Preprocessing
+    
     Auto-Orient: Applied
     
     Resize: Stretch to 700x700
 
 Augmentations
+    
     Crop: 0% Minimum Zoom, 25% Maximum Zoom
     
     Shear: ±15° Horizontal, ±15° Vertical
